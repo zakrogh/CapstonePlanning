@@ -34,4 +34,4 @@ Name of Student: Zach Krogh
 #### What additional tools, frameworks, libraries, APIs, or other resources will these additional features require?
 
 * Building a phone app will require Android studio or Xcode
-* Hosting the project will require paying for a web server as well as a paid Twilio account (I intend on using a free developer account for the basic project)
+* Hosting the project will require paying for a web server as well as a paid Twilio account (I intend on using a free developer account for the basic project).
